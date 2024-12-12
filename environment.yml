@@ -15,7 +15,7 @@ dependencies:
   - pip:
       - tqdm
       - moderngl
-      - pytorch_lightning
+      - pytorch_lightning==1.5.0
       - wandb
       - trimesh
       - rtree
